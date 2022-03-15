@@ -36,6 +36,8 @@ ReactDOM.render(
 );
 ```
 
+**counterSlice.ts**
+
 ```js
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
